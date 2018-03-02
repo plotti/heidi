@@ -4,19 +4,16 @@
 #HSLIDE
 ## HOW IT IS NOW
 
-For most people who want to lose weight you are supposed to do only one thing: Consume less calories than you need. This often means:
+- More than 80% of Swiss Population are hearing Radio daily
+- While assistants are flooding our homes: Google Home, Alexa, Homepod... the most modern Invention in Radio Technology has been DAB+ which is stemming from 1987.
 
-1. Eat less than 2000 ckal
-2. Still eat the right nutritional values. 
-
-#HSLIDE
+#HSLIDE?image=https://i.imgur.com/QLw1O2r.png
 ## PROBLEM
-Trying to figure those two things out is very time consuming, you will have to track every food you eat with tools like http://myfitnesspal.com. But:
 
-1. Its hard to guess how much you actually ate. Unless it was the whole can. 
-2. Those tools won't tell you WHAT to eat. 
+1. Its hard to guess how much you actually ate. Unless it was the whole can.
+2. Those tools won't tell you WHAT to eat.
 
-So you are on your own, you have to create your own diet plans and try to tediously to stick to them. 
+So you are on your own, you have to create your own diet plans and try to tediously to stick to them.
 
 #HSLIDE
 ## IDEA: The 2kcal pack
@@ -33,35 +30,35 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 ![App](http://i.imgur.com/PNUL8oC.jpg "A little app helps you to find your 2kcal pack")
 
 #HSLIDE
-## The benefits are: 
+## The benefits are:
 
 1. Its healthy
 2. You can be lazy while dieting
-3. It helps you to shop the right things. 
+3. It helps you to shop the right things.
 4. You will save money!
 
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack
 
 - Caloric Goals: 2000 kcal
-- Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
+- Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com):
  - 125g Carbs
  - 46g Fat
  - 227g Protein
 - This pack is cheap and easy to prepare.
- - Compare 14.95CHF of the pack vs. 60 CHF (10CHF breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
+ - Compare 14.95CHF of the pack vs. 60 CHF (10CHF breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant).
 
 #HSLIDE?image=http://i.imgur.com/y5EW79o.jpg
 ## EXAMPLE of a 2kcal Pack BREAKFAST
-    2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
+    2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153
     Calories: 276 kcal (extracted from API)
     Nutritional Values: 30g Carbs, 14g Fat, 6g Protein (extracted from API)
     Price for whole Package: 3 CHF (extracted via https://produkte.migros.ch/m-classic-buttergipfel-frischback)
     -
-    Coffe from coffe machine at home. 
+    Coffe from coffe machine at home.
 
 #HSLIDE?image=http://i.imgur.com/0XAYoVr.png
-## EXAMPLE of a 2kcal Pack LUNCH 
+## EXAMPLE of a 2kcal Pack LUNCH
     Whole Pack of  Vegi Bulgursalat mit Hummus-Dip: https://www.openfood.ch/de/products/13264
     Calories: 523 kcal (extracted from API)
     Nutritional Values: Carbs 14g , Fat 5g, Proteins: 4g  (extracted from API)
@@ -71,7 +68,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
     Calories: 223 kcal
     Nutritional Values: 27g Carbs, 10g Fat, 5g Protein
     Price for the whole Pacakge (1 Yoghurt) 0.55 CHF (extracted via https://produkte.migros.ch/m-classic-joghurt-kokosschokolade)
-    - 
+    -
     Tap water
 
 #HSLIDE?image=http://i.imgur.com/SXkExuv.png
@@ -80,26 +77,26 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
     Calories: 1280kcal (extracted from API)
     Nutritional Values: 120g Carbs, 55g Fat, 72g Protein
     Price for whole Package: 5CHF (extracted from https://produkte.migros.ch/m-budget-lasagne-bolognese)
-    - 
+    -
     Tap water
 
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack SUMMARY
-    Calories: 276+ 253 + 223 + 1280 = 2032 
-    Nutritional values: 191g Carbs, 84g Fat, 87g 
+    Calories: 276+ 253 + 223 + 1280 = 2032
+    Nutritional values: 191g Carbs, 84g Fat, 87g
     Cost: 3 CHF + 6.40 CHF+ 0.55 CHF + 5 CHF = 14.95 CHF
 
 - We could say the caloric goal is met < 2k
 - We over-ate on carbs(>125g) and fat (>46g), but did not eat enough protein(<227g).
-- We only spend 15CHF this day. 
+- We only spend 15CHF this day.
 - I would rate this pack only 3/5 stars because those conditions are not met
 
 #HSLIDE
 ## EVALUATION
 
 - Problems:
- - openfood API is incomplete and does not contain all the necessary nutritional values. 
- - openfood API does not contain the price of the products. 
+ - openfood API is incomplete and does not contain all the necessary nutritional values.
+ - openfood API does not contain the price of the products.
  - Unsolved how to link between openfood.ch and produkte.migros.ch
 
 #HSLIDE
