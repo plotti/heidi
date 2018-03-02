@@ -28,9 +28,9 @@
 ## The benefits are:
 
 1. Ubiquitous integration of DRS content into smart homes.
-2. Overcoming of program fragmentation through natural interaction.
+2. Overcoming of program fragmentation.
 3. Quality content without ads at your command.
-4. Learn users preferences, since you control the device.
+4. Learn users preferences, offer a virtual personalized radio.
 5. Move radio even "closer" to the listener.
 
 #HSLIDE?image=https://i.imgur.com/WmeQtxp.jpg
