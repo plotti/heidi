@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/fTBwyLl.jpg "Lets shake things up in the radio world!")
+![Logo](https://i.imgur.com/Q763SFq.png "Lets shake things up in the radio world!")
 
 #HSLIDE
 ## HOW IT IS NOW
