@@ -43,9 +43,8 @@
  - It works! The technology is ready!
  - You don't need to send your data to the NSA.
 - Bad
- - You could just develop a "skill" for Alexa that works too, actually you have already (e.g. SRF sport flash)
+ - You could add "skill" for Alexa. Actually you already have (e.g. SRF sport flash)
  - I already listen to radio on my mobile. I guess thats fine.
- - Yet the best speech recognition solutions are in the hands of the giants.
  - Another device in my home? No!
 
 #HSLIDE
