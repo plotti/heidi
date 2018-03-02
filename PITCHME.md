@@ -7,8 +7,9 @@
 - More than 80% of Swiss Population are hearing Radio daily! Yeay!
 - While assistants are flooding our homes: Google Home, Alexa, Homepod... the most modern Invention in Radio Technology has been DAB+ which is stemming from 1987.
 
-#HSLIDE?image=https://i.imgur.com/QLw1O2r.png
+#HSLIDE
 ## PROBLEM
+![Audience](https://i.imgur.com/QLw1O2r.png)
 
 1. Declining audience: People are not listening in a streaming mode that much anymore
 2. Fragmentation of excellent content which is hard to be found.
