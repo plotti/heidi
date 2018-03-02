@@ -4,106 +4,52 @@
 #HSLIDE
 ## HOW IT IS NOW
 
-- More than 80% of Swiss Population are hearing Radio daily
+- More than 80% of Swiss Population are hearing Radio daily! Yeay!
 - While assistants are flooding our homes: Google Home, Alexa, Homepod... the most modern Invention in Radio Technology has been DAB+ which is stemming from 1987.
 
 #HSLIDE?image=https://i.imgur.com/QLw1O2r.png
 ## PROBLEM
 
-1. Its hard to guess how much you actually ate. Unless it was the whole can.
-2. Those tools won't tell you WHAT to eat.
-
-So you are on your own, you have to create your own diet plans and try to tediously to stick to them.
-
-#HSLIDE
-## IDEA: The 2kcal pack
-
-So what if people sat together (think of community) and build daily 2000 kcal Packs that are build out of the existing products available in common super markets. These Packs can be either be:
-
-1. Delivered to your door.
-2. Picked up bundled in your supermarket (not very practical see final thoughts below)
-3. With the use of an app the consumer can be guided to pick these up at the store.
+1. Declining audience: People are not listening in a streaming mode that much anymore
+2. Fragmentation of excellent content which is hard to be found.
+3. Alexa and Homepod don't know DRS content: "Alex spiel mir die letzte Espresso Sendung"
 
 #HSLIDE
-## IDEA: The 2kcal pack app
+## IDEA: Heidi
 
-![App](http://i.imgur.com/PNUL8oC.jpg "A little app helps you to find your 2kcal pack")
+
+1. Knows all the DRS content ("Heidi spiel SRF1")
+2. Personalized to you ("Heidi spiel meine Lieblingssendung!")
+3. Made out of wood :)
 
 #HSLIDE
 ## The benefits are:
 
-1. Its healthy
-2. You can be lazy while dieting
-3. It helps you to shop the right things.
-4. You will save money!
+1. Ubiquitous integration of DRS content into smart homes
+2. Overcoming of program fragmentation through natural interaction
+3. Quality content without ads at your command.
+4. Learn users preferences, since you control the device.
+5. Move radio even "closer" to the listener.
 
-#HSLIDE
-## EXAMPLE of a 2kcal Pack
-
-- Caloric Goals: 2000 kcal
-- Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com):
- - 125g Carbs
- - 46g Fat
- - 227g Protein
-- This pack is cheap and easy to prepare.
- - Compare 14.95CHF of the pack vs. 60 CHF (10CHF breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant).
-
-#HSLIDE?image=http://i.imgur.com/y5EW79o.jpg
-## EXAMPLE of a 2kcal Pack BREAKFAST
-    2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153
-    Calories: 276 kcal (extracted from API)
-    Nutritional Values: 30g Carbs, 14g Fat, 6g Protein (extracted from API)
-    Price for whole Package: 3 CHF (extracted via https://produkte.migros.ch/m-classic-buttergipfel-frischback)
-    -
-    Coffe from coffe machine at home.
-
-#HSLIDE?image=http://i.imgur.com/0XAYoVr.png
-## EXAMPLE of a 2kcal Pack LUNCH
-    Whole Pack of  Vegi Bulgursalat mit Hummus-Dip: https://www.openfood.ch/de/products/13264
-    Calories: 523 kcal (extracted from API)
-    Nutritional Values: Carbs 14g , Fat 5g, Proteins: 4g  (extracted from API)
-    Price for whole Package: 6.40 CHF (extracted via https://produkte.migros.ch/vegi-bulgursalat-mit-hummus-dip)
-    -
-    Dessert M-CLASSIC KOKOS/SCHOKOLADE JOGHURT: https://www.openfood.ch/de/products/13541
-    Calories: 223 kcal
-    Nutritional Values: 27g Carbs, 10g Fat, 5g Protein
-    Price for the whole Pacakge (1 Yoghurt) 0.55 CHF (extracted via https://produkte.migros.ch/m-classic-joghurt-kokosschokolade)
-    -
-    Tap water
-
-#HSLIDE?image=http://i.imgur.com/SXkExuv.png
-## EXAMPLE of a 2kcal Pack DINNER
-    Whole Pack of Migros Lasagne 1kg: https://www.openfood.ch/de/products/15016
-    Calories: 1280kcal (extracted from API)
-    Nutritional Values: 120g Carbs, 55g Fat, 72g Protein
-    Price for whole Package: 5CHF (extracted from https://produkte.migros.ch/m-budget-lasagne-bolognese)
-    -
-    Tap water
-
-#HSLIDE
-## EXAMPLE of a 2kcal Pack SUMMARY
-    Calories: 276+ 253 + 223 + 1280 = 2032
-    Nutritional values: 191g Carbs, 84g Fat, 87g
-    Cost: 3 CHF + 6.40 CHF+ 0.55 CHF + 5 CHF = 14.95 CHF
-
-- We could say the caloric goal is met < 2k
-- We over-ate on carbs(>125g) and fat (>46g), but did not eat enough protein(<227g).
-- We only spend 15CHF this day.
-- I would rate this pack only 3/5 stars because those conditions are not met
+#HSLIDE?image=https://i.imgur.com/WmeQtxp.jpg
+## Demo
 
 #HSLIDE
 ## EVALUATION
 
-- Problems:
- - openfood API is incomplete and does not contain all the necessary nutritional values.
- - openfood API does not contain the price of the products.
- - Unsolved how to link between openfood.ch and produkte.migros.ch
+- Good
+ - It works! The technology is ready!
+ - You don't need to send your data to the NSA.
+- Bad
+ - I already listen to radio on my mobile. I guess thats fine.
+ - Yet the best speech recognition solutions are in the hands of the giants.
+ - Another device in my home? No!
 
 #HSLIDE
 ## FINAL THOUGHTS
 
-- The 2000kcal packs would of course be "virtual", thus on a website or app, since bundling those projects together is not feasible for a supermarket because of different storage conditions (e.g. a yoghurt needs to be stored in the fridge, but you don't want your croissants to be frozen :))
-- The app could of course combine the nutritions and the receipe. (e.g. how to prepare a salad using those 3 ingredients)
+- Controlling the device has a lot of benefits (e.g. Alexa, but also Swisscom Box, UPC box, etc..): You control the data, the insights, lock out competition, etc..
+- Producing a market ready device never was the job of a Radio or TV station, but then times are changing ...
 
 #HSLIDE
 ## Thank you for your attention!
