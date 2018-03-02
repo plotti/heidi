@@ -8,18 +8,20 @@
 - While assistants are flooding our homes: Google Home, Alexa, Homepod... the most modern Invention in Radio Technology has been DAB+ which is stemming from 1987.
 
 #HSLIDE?image=https://i.imgur.com/QLw1O2r.png
-## PROBLEM
+## PROBLEM 1 Declining audience: People are listening less and less radio
 
-1. Declining audience: People are not listening in a streaming mode that much anymore
-2. Fragmentation of excellent content which is hard to be found.
-3. Alexa and Homepod don't know DRS content: "Alex spiel mir die letzte Espresso Sendung"
+#HSLIDE?image=https://i.imgur.com/e5b69Ve.png
+## PROBLEM 2 Fragmentation of excellent content. Little re-use.
+
+#HSLIDE?image=https://i.imgur.com/IOk0rtJ.gif
+## PROBLEM 3 "Alexa spiel mir die letzte Espresso Sendung"
 
 #HSLIDE
 ## IDEA: Heidi
 
-
 1. Knows all the DRS content ("Heidi spiel SRF1")
 2. Personalized to you ("Heidi spiel meine Lieblingssendung!")
+3. Allows for easy access of excessive content. Also binge-hearing.
 3. Made out of wood :)
 
 #HSLIDE
