@@ -1,5 +1,5 @@
 
-![Logo](http://i.imgur.com/ewtsGPn.png "Eat healthy, lose weight, shop like a pro and save money.")
+![Logo](https://i.imgur.com/fTBwyLl.jpg "Lets shake things up in the radio world!")
 
 #HSLIDE
 ## HOW IT IS NOW
