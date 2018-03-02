@@ -51,7 +51,9 @@ def RecognizeSpeech(AUDIO_FILENAME, num_seconds = 5):
     text = re.sub("srf 3","srf3",text.lower())
     text = re.sub("sf3","srf3",text.lower())
     text = re.sub("sr3","srf3",text.lower())
-    text = re.sub("ruhe","ruhr",text.lower())
+    text = re.sub("ruhr","ruhe",text.lower())
+    text = re.sub("einruhr","ruhe",text.lower())
+    text = re.sub("hansgrohe","ruhe",text.lower())
     text = re.sub("heimpsiel","heidi spiel",text)
     text = re.sub("hayden spiel","heidi spiel",text)
     text = re.sub("highspeed","heidi spiel",text)
@@ -78,7 +80,7 @@ def RecognizeSpeech(AUDIO_FILENAME, num_seconds = 5):
         os.system("mplayer http://stream.srg-ssr.ch/m/drs3/aacp_96  </dev/null >/dev/null 2>&1 &")
     if sender == "espresso":
         kill_mplayer()
-        os.system("mplayer $(youtube-dl -g http://tp.srgssr.ch/p/srf/inline\?urn\=urn:srf:audio:b88af97b-8d44-4b29-9b81-28e3e9be8657)")
+        os.system("mplayer $(youtube-dl -g http://tp.srgssr.ch/p/srf/inline\?urn\=urn:srf:audio:b88af97b-8d44-4b29-9b81-28e3e9be8657) </dev/null >/dev/null 2>&1 &")
     if sender == "ruhe":
         kill_mplayer()
         os.system("mplayer ja1.wav")
